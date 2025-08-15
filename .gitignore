@@ -1,0 +1,18 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Local Terraform settings
+.terraform/
+.terraform.lock.hcl
+
+# SSH private/public keys
+*.pem
+*key*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
